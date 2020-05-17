@@ -1,0 +1,31 @@
+#cabecalho {
+    display: flex;
+    justify-content: center;
+}
+
+#button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    color: #fff;
+    background-color: #343a40;
+    border-color: #343a40;
+    cursor: pointer;
+}
+
+#numero {
+    margin-right: 20px;
+    width: 200px;
+    height: 50px;
+    font-size: xx-large;
+    border-radius: 6px;
+    padding: 5px;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+}
